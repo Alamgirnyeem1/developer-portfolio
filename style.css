@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{font-size: 50px;}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.pagla{
+    width: 50%;
+    padding-left: 5%;
+}
+.pagla img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    background-color: orange;
+}
+.top{
+    background-image: url(developer-portfolio-master/images/top-banner.png);
+    background-repeat: no-repeat;
+}
